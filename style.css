@@ -1,0 +1,20 @@
+body {background-color: rgb(212, 228, 220); }
+h1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(27, 173, 129);
+    text-align: center; }
+    
+h3 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: purple;}
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: teal;}
+.index-p1 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(160, 52, 111);}
+ul {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: purple;}
+table {padding: 5px; vertical-align: top; }
+h2 {font-family: 'Comfortaa', cursive;
+   text-align: center;}
+.index-lyric p {color: rgb(160, 52, 111); font-style: italic; font-family: 'Comfortaa', cursive
+ }
+ .index-defintion {font-size: small;
+    color: rgb(1, 24, 24);}
